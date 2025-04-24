@@ -1454,7 +1454,7 @@ en:
       newsletter_form:
         button_text_default: Submit
         placeholder_default: Enter your email
-    page_not_found: Sorry! Page you are looking can’t be found.
+    page_not_found: Sorry! Page you are looking for can’t be found.
     page_sections:
       announcement_bar:
         default_text: Welcome to my Store!
@@ -1830,6 +1830,9 @@ en:
     seo_title: SEO Title
     server: Server
     server_error: The server returned an error
+    internal_server_error: Internal Server Error
+    internal_server_error_message: The server encountered an internal error and was unable to complete your request.
+    page_not_found_message: This page just doesn't exist.
     settings: Settings
     ship: Ship
     ship_address: Ship Address
